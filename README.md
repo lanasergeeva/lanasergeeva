@@ -9,8 +9,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
  ![Hibernate](https://img.shields.io/badge/Hibernate->=_5.0-green?style=flat-square&logo=hibernate)   ![JDBC](https://img.shields.io/badge/JDBC-738bff?style=flat-square) ![Liquibase](https://img.shields.io/badge/Liquibase-ff3333?style=flat-square)  ![H2](https://img.shields.io/badge/H2-0007c7?style=flat-square) 
 
 
