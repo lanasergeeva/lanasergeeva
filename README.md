@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm Lana
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-###  :hammer_and_wrench: Навыки
-
 <div align="center">
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ <h2 align="center">:hammer_and_wrench: Навыки</h2>
+
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)  ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
@@ -16,17 +17,29 @@
 </div>
  
  ---
- 
-### :briefcase: Проекты
+<div align="center"> 
+  <h2 align="center">:briefcase: Проекты</h2>
 
-1. :sunny: [Приложение прогноз погоды. Работает в режиме реактивного программирования.](https://github.com/lanasergeeva/weather_reactive)
-2. :policeman: [Web-приложение "Автонарушители".](https://github.com/lanasergeeva/job4j_car_accident)
-3. :adult: :woman: [Web-приложение "Закрытый форум".](https://github.com/lanasergeeva/forum)
-4. :car: [Web-приложение "Площадка по продаже авто"](https://github.com/lanasergeeva/job4j_cars)
-5. :clapper: [Web-приложение "Кинотеатр"](https://github.com/lanasergeeva/job4j_cinema)
-6. :orange_book: [Web-приложение "Todo List"](https://github.com/lanasergeeva/job4j_todo)
-7. :newspaper: [Web-приложение "Биржа вакансий"](https://github.com/lanasergeeva/job4j_dreamjob)
-8. :monorail: [Приложение ""Pooh JMS". Аналог асинхронной очереди.](https://github.com/lanasergeeva/job4j_pooh)
-9. :man: :woman: [REST API приложение "Чат c комнатами".](https://github.com/lanasergeeva/chat)
-10. :desktop_computer: [Консольное приложение "Агрегатор Java Вакансий".](https://github.com/lanasergeeva/job4j_grabber)
-11. :page_facing_up: [Консольное приложение "Tracker".](https://github.com/lanasergeeva/tracker)
+
+ :sunny: [1.  Приложение прогноз погоды. Работает в режиме реактивного программирования.](https://github.com/lanasergeeva/weather_reactive)
+ 
+ :policeman: [2.  Web-приложение "Автонарушители".](https://github.com/lanasergeeva/job4j_car_accident)
+ 
+ :adult: :woman: [3.Web-приложение "Закрытый форум".](https://github.com/lanasergeeva/forum)
+ 
+ :car: [4. Web-приложение "Площадка по продаже авто"](https://github.com/lanasergeeva/job4j_cars)
+ 
+ :clapper: [5. Web-приложение "Кинотеатр"](https://github.com/lanasergeeva/job4j_cinema)
+ 
+ :orange_book: [6. Web-приложение "Todo List"](https://github.com/lanasergeeva/job4j_todo)
+ 
+ :newspaper: [7. Web-приложение "Биржа вакансий"](https://github.com/lanasergeeva/job4j_dreamjob)
+ 
+ :monorail: [8. Приложение ""Pooh JMS". Аналог асинхронной очереди.](https://github.com/lanasergeeva/job4j_pooh)
+ 
+ :man: :woman: [9. REST API приложение "Чат c комнатами".](https://github.com/lanasergeeva/chat)
+
+ :desktop_computer: [10. Консольное приложение "Агрегатор Java Вакансий".](https://github.com/lanasergeeva/job4j_grabber)
+ 
+ :page_facing_up: [11. Консольное приложение "Tracker".](https://github.com/lanasergeeva/tracker)
+</div>
