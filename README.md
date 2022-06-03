@@ -24,7 +24,7 @@
 6. :orange_book: [Web-приложение "Todo List"](https://github.com/lanasergeeva/job4j_todo)
 7. :newspaper: [Web-приложение "Биржа вакансий"](https://github.com/lanasergeeva/job4j_dreamjob)
 8. :monorail: [Приложение ""Pooh JMS". Аналог асинхронной очереди.](https://github.com/lanasergeeva/job4j_pooh)
-9. :massage_man: :massage_woman: [REST API приложение "Чат c комнатами".](https://github.com/lanasergeeva/chat)
+9. :man: :woman: [REST API приложение "Чат c комнатами".](https://github.com/lanasergeeva/chat)
 10. :desktop_computer: [Консольное приложение "Агрегатор Java Вакансий".](https://github.com/lanasergeeva/job4j_grabber)
 11. :page_facing_up: [Консольное приложение "Tracker".](https://github.com/lanasergeeva/tracker)
 
